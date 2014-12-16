@@ -67,6 +67,8 @@ Is recommended to be one of the below items. Only **feat** and **fix** show up i
 The scope could be anything specifying place of the commit change. For example `$location`,
 `$browser`, `$compile`, `$rootScope`, `ngHref`, `ngClick`, `ngView`, etc...
 
+* don't capitalize first letter
+
 ### Subject
 The subject contains succinct description of the change:
 
